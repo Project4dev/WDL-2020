@@ -1,0 +1,62 @@
+.imagesindex{
+	background-image: url(index3.jpg);
+	min-height: 80vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-top: 20px;
+	padding:10px;
+}
+.imagesindex h1{
+	color: white;
+	font-size: 30px
+}
+.imagesindex p{
+	font-size: 30px;
+	color: white;
+	align-items: center;
+}
+.images h3{
+	color: black;
+	font-size: 30px
+}
+
+.images p{
+	font-size: 30px;
+	color: white;
+	align-items: center;
+}
+
+.text_info{
+	padding-top: 10px;
+	color: white;
+	font-size: 35px;
+}
+
+/*.row_card{
+	padding:10px;
+}
+
+.row_card1{
+	padding:10px;
+	padding-bottom: 10dp;
+}*/
+
+.cards_item .row_card{
+	padding:10px;
+}
+
+.cards_item .row_card1{
+	padding:10px;
+	padding-bottom: 10dp;
+}
+
+.footer{
+	padding: 20px;
+	background-color: #99ddff;
+	margin-bottom: 30px;
+	
+}
